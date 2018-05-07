@@ -1,6 +1,5 @@
 chaunglan
 chaunglan-asp-demo
-
 /****************使用说明*****************/
 sms.asp 发短信的后台代码
 index.asp 前端ajax交互
